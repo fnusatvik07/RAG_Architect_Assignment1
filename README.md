@@ -1,4 +1,4 @@
-# RAG Architect Assignment 1 — Classic RAG System
+# RAG Architect Assignment 1 -  Designing a Classic RAG System
 
 **Course:** RAG Architect
 **Week:** 1

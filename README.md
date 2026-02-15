@@ -8,7 +8,7 @@
 
 ---
 
-## 🧩 Problem Statement — Real-World Scenario
+## Problem Statement — Real-World Scenario
 
 You are hired as an **AI Engineer** to build an internal knowledge assistant for a company.
 
@@ -44,7 +44,7 @@ Your task is to build a **Classic RAG-based Knowledge Assistant** that:
 
 ---
 
-## 🚀 Assignment Objective
+## Assignment Objective
 
 This assignment evaluates your **fundamental understanding of building a Classic RAG system** from scratch. You are expected to demonstrate:
 
@@ -168,7 +168,18 @@ Email your complete submission to **[admin@datasenseai.co.in](mailto:admin@datas
 **Subject format (MANDATORY):**
 `RAG Week-1 Assignment — <Your Full Name> — <Your Email/Phone>`
 
-Incomplete or wrongly formatted subjects may lead to missed evaluation.
+**Important Submission Instruction:**
+
+* Upload your complete work to **GitHub** (code + architecture document).
+* Your GitHub repository must contain:
+
+  * Source Code
+  * Architecture Document (PDF/DOC)
+  * README (How to run your project)
+* **Send ONLY ONE GitHub repository link** in the email body.
+* Do NOT attach files separately.
+
+Incomplete submissions or wrongly formatted subjects may lead to missed evaluation.
 
 ---
 
